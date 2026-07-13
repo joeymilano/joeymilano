@@ -14,9 +14,9 @@
 
 ---
 
-I’m a product designer and AI builder who takes ideas from **first question to real product** — shaping the strategy, interaction, visual language, frontend, and the AI behavior behind it.
+I’m a product designer and AI builder who takes ideas from **first question to real product** — shaping the strategy, interaction, visual language, frontend, and the AI behavior behind it. My work spans [**@joeymilano**](https://github.com/joeymilano) and [**@JoeyZhaoUX**](https://github.com/JoeyZhaoUX): AI-native products, consumer tools, browser extensions, and expressive digital experiences.
 
-我是产品设计师，也是 AI Builder。我把一个模糊但有野心的想法，推进到真实用户愿意使用的产品：从产品判断、交互与视觉，到前端实现和 AI 能力，全部落到同一套高标准里。
+我是产品设计师，也是 AI Builder。我把一个模糊但有野心的想法，推进到真实用户愿意使用的产品：从产品判断、交互与视觉，到前端实现和 AI 能力，全部落到同一套高标准里。我的作品横跨 [**@joeymilano**](https://github.com/joeymilano) 与 [**@JoeyZhaoUX**](https://github.com/JoeyZhaoUX)，涵盖 AI 原生产品、消费级工具、浏览器扩展与富有表达力的数字体验。
 
 > **No theatre decks. No fake demos. Just products with a point of view — and the craft to make them real.**  
 > **不做只停留在 PPT 里的“概念产品”。我关心的是有立场、有体验、有真实生命力的产品。**
@@ -26,7 +26,10 @@ I’m a product designer and AI builder who takes ideas from **first question to
 | | Product | Why it matters / 它解决什么 |
 | --- | --- | --- |
 | ✦ | [**Finfold**](https://github.com/joeymilano/Finfold) | An AI content growth OS for solo founders going global — turning one insight into native content for RED, X, LinkedIn, Reddit, and beyond.<br><sub>为出海独立创业者打造的 AI 内容增长系统：一次输入，多平台原生表达。</sub> |
+| ✦ | [**Bill Vampire**](https://github.com/JoeyZhaoUX/Bill-Vampire) + [**Gmail Patrol**](https://github.com/JoeyZhaoUX/bill-vampire-extension) | A privacy-first subscription-defense product and its Gmail companion: identify recurring charges, assess risk, and turn billing evidence into an actionable response.<br><sub>一个隐私优先的订阅防御产品及其 Gmail 扩展：识别续费、判断风险，并将账单证据转化为可执行的应对方案。</sub> |
 | ✦ | [**The Forgetting Engine**](https://github.com/joeymilano/forgetting-engine) | A poetic interaction that turns a memory into weathered words, then lets it scatter — proof that utility and emotion can coexist.<br><sub>把记忆风化成诗，再让它消散；功能与情绪不必二选一。</sub> |
+| ✦ | [**SoundPoetry**](https://github.com/JoeyZhaoUX/sound-poetry) | An audio-reactive poetry experience where voice and ambient sound become a visual, participatory canvas.<br><sub>让声音与环境音变成可参与、可感知的诗意视觉体验。</sub> |
+| ✦ | [**EcoLoop**](https://github.com/JoeyZhaoUX/ecoloop-client-delivery) | A sustainable-living gamification experience that makes everyday low-impact choices motivating and visible.<br><sub>用游戏化体验，让日常可持续选择更有动力，也更看得见。</sub> |
 | ✦ | [**Portfolio & Writing**](https://joeyzhao.cc) | Product thinking, experiments, and the work behind the work.<br><sub>产品思考、实验和那些真正决定作品质量的细节。</sub> |
 
 ## My operating system / 我的工作方式
