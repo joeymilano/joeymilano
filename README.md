@@ -21,7 +21,29 @@ I’m a product designer and AI builder who takes ideas from **first question to
 > **No theatre decks. No fake demos. Just products with a point of view — and the craft to make them real.**  
 > **不做只停留在 PPT 里的“概念产品”。我关心的是有立场、有体验、有真实生命力的产品。**
 
-## What I build / 我在做什么
+## Featured interaction / 旗舰体验
+
+<p align="center">
+  <a href="https://joeyzhao.cc/vw-id-aura/">
+    <img src="https://joeyzhao.cc/vw-id-aura/assets/og-cover.jpg" alt="ID.AURA — a Volkswagen HMI concept by Joey Zhao" width="100%" />
+  </a>
+</p>
+
+### [ID.AURA — Volkswagen HMI Concept ↗](https://joeyzhao.cc/vw-id-aura/)
+
+**The road thinks ahead.** An independent, real-time WebGL concept for Volkswagen's electric future — a vehicle experience that sees, anticipates, and responds as one continuous intelligence. I designed and built the complete experience across **Showroom · Cluster · Spatial Console · Autonomous**.
+
+<sub>为大众电动未来打造的独立 HMI 概念：以实时 WebGL 将展车、仪表、空间中控与自动驾驶串成一个连续的智能体验。从体验策略、视觉语言到前端与交互，全部由我设计并实现。</sub>
+
+<p>
+  <a href="https://joeyzhao.cc/vw-id-aura/"><strong>Launch the experience ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/joeymilano/portfolio.github.io/tree/main/vw-id-aura">Explore the build ↗</a>
+</p>
+
+---
+
+## Selected work / 代表作品
 
 | | Product | Why it matters / 它解决什么 |
 | --- | --- | --- |
@@ -31,6 +53,10 @@ I’m a product designer and AI builder who takes ideas from **first question to
 | ✦ | [**SoundPoetry**](https://github.com/JoeyZhaoUX/sound-poetry) | An audio-reactive poetry experience where voice and ambient sound become a visual, participatory canvas.<br><sub>让声音与环境音变成可参与、可感知的诗意视觉体验。</sub> |
 | ✦ | [**EcoLoop**](https://github.com/JoeyZhaoUX/ecoloop-client-delivery) | A sustainable-living gamification experience that makes everyday low-impact choices motivating and visible.<br><sub>用游戏化体验，让日常可持续选择更有动力，也更看得见。</sub> |
 | ✦ | [**Portfolio & Writing**](https://joeyzhao.cc) | Product thinking, experiments, and the work behind the work.<br><sub>产品思考、实验和那些真正决定作品质量的细节。</sub> |
+
+<p align="center">
+  <sub>AI-native products · Consumer tools · Expressive interaction · WebGL systems</sub>
+</p>
 
 ## My operating system / 我的工作方式
 
