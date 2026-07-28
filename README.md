@@ -25,7 +25,7 @@ I’m a product designer and AI builder who takes ideas from **first question to
 
 <p align="center">
   <a href="https://joeyzhao.cc/vw-id-aura/">
-    <img src="https://joeyzhao.cc/vw-id-aura/assets/og-cover.jpg" alt="ID.AURA — a Volkswagen HMI concept by Joey Zhao" width="100%" />
+    <img src="assets/id-aura-hero.png" alt="ID.AURA — a Volkswagen HMI concept by Joey Zhao" width="100%" />
   </a>
 </p>
 
