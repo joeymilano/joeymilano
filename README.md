@@ -51,9 +51,9 @@ I’m a product designer and AI builder who takes ideas from **first question to
 | --- | --- | --- |
 | ✦ | [**Finfold**](https://github.com/joeymilano/Finfold) | An AI content growth OS for solo founders going global — turning one insight into native content for RED, X, LinkedIn, Reddit, and beyond.<br><sub>为出海独立创业者打造的 AI 内容增长系统：一次输入，多平台原生表达。</sub> |
 | ✦ | [**Bill Vampire**](https://github.com/JoeyZhaoUX/Bill-Vampire) + [**Gmail Patrol**](https://github.com/JoeyZhaoUX/bill-vampire-extension) | A privacy-first subscription-defense product and its Gmail companion: identify recurring charges, assess risk, and turn billing evidence into an actionable response.<br><sub>一个隐私优先的订阅防御产品及其 Gmail 扩展：识别续费、判断风险，并将账单证据转化为可执行的应对方案。</sub> |
-| ✦ | [**The Forgetting Engine**](https://github.com/joeymilano/forgetting-engine) | A poetic interaction that turns a memory into weathered words, then lets it scatter — proof that utility and emotion can coexist.<br><sub>把记忆风化成诗，再让它消散；功能与情绪不必二选一。</sub> |
-| ✦ | [**SoundPoetry**](https://github.com/JoeyZhaoUX/sound-poetry) | An audio-reactive poetry experience where voice and ambient sound become a visual, participatory canvas.<br><sub>让声音与环境音变成可参与、可感知的诗意视觉体验。</sub> |
-| ✦ | [**EcoLoop**](https://github.com/JoeyZhaoUX/ecoloop-client-delivery) | A sustainable-living gamification experience that makes everyday low-impact choices motivating and visible.<br><sub>用游戏化体验，让日常可持续选择更有动力，也更看得见。</sub> |
+| ✦ | [**PORTFOLIO OS**](https://joeymilano.github.io/portfolio-os/) | A design-education AI agent that plans study-abroad portfolios like a strategist — built for the Alipay Agent Award, deployed and live.<br><sub>支付宝智能体涌现奖参赛作：像留学策略师一样帮设计学生规划作品集的 AI 智能体，已部署上线。</sub> |
+| ✦ | [**CALL ME YAO 妖**](https://joeyzhao.cc/yao/) | An AI-native girl group of four Journey to the West demons — one person, 36 scripts, from lyrics to YouTube release.<br><sub>把《西游记》四只妖怪重组成 AI 原生女团：一个人、36 版脚本，从作词到 YouTube 上线的完整影像管线。</sub> |
+| ✦ | [**Finfold Growth Mission**](https://github.com/xagentAI/xagt-plugin/pull/34) | A Finfold-powered growth-mission plugin, merged into xagentAI/xagt-plugin — shipping agent workflows where agents live.<br><sub>基于 Finfold 的增长任务插件，已合并进 xagentAI/xagt-plugin 官方仓库：把增长工作流直接送进智能体平台。</sub> |
 | ✦ | [**Portfolio & Writing**](https://joeyzhao.cc) | Product thinking, experiments, and the work behind the work.<br><sub>产品思考、实验和那些真正决定作品质量的细节。</sub> |
 
 <p align="center">
