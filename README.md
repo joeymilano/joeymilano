@@ -24,22 +24,24 @@ I’m a product designer and AI builder who takes ideas from **first question to
 ## Featured interaction / 旗舰体验
 
 <p align="center">
-  <a href="https://joeyzhao.cc/vw-id-aura/">
-    <img src="assets/id-aura-hero.png" alt="ID.AURA — a Volkswagen HMI concept by Joey Zhao" width="100%" />
+  <a href="https://joeyzhao.cc/explore/">
+    <img src="assets/explore-studio-hero.jpg" alt="The Interactive Studio — Joey Zhao's portfolio in real-time WebGL, Explore mode" width="100%" />
   </a>
 </p>
 
-### [ID.AURA — Volkswagen HMI Concept ↗](https://joeyzhao.cc/vw-id-aura/)
+### [The Interactive Studio — Explore Mode ↗](https://joeyzhao.cc/explore/)
 
-**The road thinks ahead.** An independent, real-time WebGL concept for Volkswagen's electric future — a vehicle experience that sees, anticipates, and responds as one continuous intelligence. I designed and built the complete experience across **Showroom · Cluster · Spatial Console · Autonomous**.
+**A portfolio you walk into, not one you scroll.** Explore mode turns joeyzhao.cc into a real-time WebGL studio: look around by drag, scroll, or arrow keys, and click the room's objects — the arcade, the bookshelf, the camera, the notebook — to open the work where it lives. Eight exhibits inside, day/night themes, ambient sound, full EN/中文, and a classic view for readers in a hurry. Scene, interaction, copy, and code — one maker.
 
-<sub>为大众电动未来打造的独立 HMI 概念：以实时 WebGL 将展车、仪表、空间中控与自动驾驶串成一个连续的智能体验。从体验策略、视觉语言到前端与交互，全部由我设计并实现。</sub>
+<sub>我的网站现在可以“走进去”看：「探索模式」把 joeyzhao.cc 变成一间实时 WebGL 工作室：拖动、滚轮或方向键环视夜景房间，点击屋里的物件——街机、书架、相机、笔记本——作品就在它该在的地方打开。馆内八件展品，支持日/夜主题、环境声与中英双语；赶时间的话还有「经典模式」。从 3D 场景、交互、文案到代码，全部由我一人完成。</sub>
 
 <p>
-  <a href="https://joeyzhao.cc/vw-id-aura/"><strong>Launch the experience ↗</strong></a>
+  <a href="https://joeyzhao.cc/explore/"><strong>Walk into the studio ↗</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/joeymilano/portfolio.github.io/tree/main/vw-id-aura">Explore the build ↗</a>
+  <a href="https://github.com/joeymilano/portfolio.github.io/tree/main/explore">Explore the build ↗</a>
 </p>
+
+<sub>Inside the studio / 馆内展品：Finfold · Signals Notebook · CollovGPT · UnifyUX · Ctrip Hotel · <a href="https://joeyzhao.cc/vw-id-aura/">ID.AURA</a> · Borrowed Light · CALL ME YAO</sub>
 
 ---
 
