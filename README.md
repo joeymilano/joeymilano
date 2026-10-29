@@ -14,9 +14,9 @@
 
 ---
 
-I’m a product designer and AI builder who takes ideas from **first question to real product** — shaping the strategy, interaction, visual language, frontend, and the AI behavior behind it. My work spans [**@joeymilano**](https://github.com/joeymilano) and [**@JoeyZhaoUX**](https://github.com/JoeyZhaoUX): AI-native products, consumer tools, browser extensions, and expressive digital experiences.
+I’m a product designer and AI builder who takes ideas from **first question to real product** — shaping the strategy, interaction, visual language, frontend, and the AI behavior behind it. My work spans [**@joeymilano**](https://github.com/joeymilano) and [**@JoeyZhaoUX**](https://github.com/JoeyZhaoUX): AI-native products, onchain tools, consumer apps, browser extensions, robots with a face, and expressive digital experiences.
 
-我是产品设计师，也是 AI Builder。我把一个模糊但有野心的想法，推进到真实用户愿意使用的产品：从产品判断、交互与视觉，到前端实现和 AI 能力，全部落到同一套高标准里。我的作品横跨 [**@joeymilano**](https://github.com/joeymilano) 与 [**@JoeyZhaoUX**](https://github.com/JoeyZhaoUX)，涵盖 AI 原生产品、消费级工具、浏览器扩展与富有表达力的数字体验。
+我是产品设计师，也是 AI Builder。我把一个模糊但有野心的想法，推进到真实用户愿意使用的产品：从产品判断、交互与视觉，到前端实现和 AI 能力，全部落到同一套高标准里。我的作品横跨 [**@joeymilano**](https://github.com/joeymilano) 与 [**@JoeyZhaoUX**](https://github.com/JoeyZhaoUX)，涵盖 AI 原生产品、链上工具、消费级应用、浏览器扩展、有表情的机器人，与富有表达力的数字体验。
 
 > **No theatre decks. No fake demos. Just products with a point of view — and the craft to make them real.**  
 > **不做只停留在 PPT 里的“概念产品”。我关心的是有立场、有体验、有真实生命力的产品。**
@@ -45,6 +45,22 @@ I’m a product designer and AI builder who takes ideas from **first question to
 
 ---
 
+## New from the studio / 最新上线
+
+### [Crypto Copilot ↗](https://joeyzhao.cc/cryptocopilot) · [live product ↗](https://crpto-copilot.pages.dev/)
+
+**A bilingual onchain market-research workspace where the AI only says what the data supports.** Ticker panels stream live from Kraken and CoinLore, Workers AI answers stay grounded in those numbers, and backtests are reproducible, with the losing months kept on the record. Built with React 19, TypeScript, Vite, and Cloudflare Pages Functions. It never connects a wallet and never places an order. The product's job is judgment.
+
+<sub>链上行情研究工作台，中英双语。行情接 Kraken 与 CoinLore 的实时数据，Workers AI 的每句回答都锚定在屏幕上的真实数字里；回测可复现，亏损的月份也留在记录中。不连钱包，不下单，它的工作是帮人把行情看懂。</sub>
+
+### [ELF × ECHO ↗](https://joeyzhao.cc/elf-echo/)
+
+**A campus companion robot with a face you can read.** ELF rolls on a wheeled base and wears a screen for a face. ECHO, its interactive expression system, gives it a resting face, micro-expressions, and honest reactions when it gets a pat on the head or spends a day ignored. From campus research and early sketches to final product renders, the design holds to one idea. A robot earns companionship the way an old friend does, by being consistently there.
+
+<sub>校园陪伴机器人。轮式底盘，一张屏幕当脸，表情系统叫 ECHO。它有安静的默认表情，被摸头会高兴，被晾一天会委屈。快没电的时候，它也会犯困。从校园调研、草图到产品渲染完整走了一遍，核心概念是「老朋友」，陪伴感来自长期一致的回应。</sub>
+
+---
+
 ## Selected work / 代表作品
 
 | | Product | Why it matters / 它解决什么 |
@@ -57,7 +73,7 @@ I’m a product designer and AI builder who takes ideas from **first question to
 | ✦ | [**Portfolio & Writing**](https://joeyzhao.cc) | Product thinking, experiments, and the work behind the work.<br><sub>产品思考、实验和那些真正决定作品质量的细节。</sub> |
 
 <p align="center">
-  <sub>AI-native products · Consumer tools · Expressive interaction · WebGL systems</sub>
+  <sub>AI-native products · Onchain tools · Robots with a face · Consumer tools · Expressive interaction · WebGL systems</sub>
 </p>
 
 ## My operating system / 我的工作方式
@@ -73,9 +89,9 @@ I’m a product designer and AI builder who takes ideas from **first question to
 
 ## Currently / 现在
 
-Building AI-native products, evolving Finfold, and exploring how software can be both **useful** and **unforgettable**.
+Building an onchain market copilot, teaching a robot to make faces, evolving Finfold, and exploring how software can be both **useful** and **unforgettable**.
 
-正在持续构建 AI 原生产品、迭代 Finfold，也在探索软件如何同时做到 **有用** 与 **令人难忘**。
+正在打磨链上行情 Copilot，教机器人练习表情，持续迭代 Finfold，也在探索软件如何同时做到 **有用** 与 **令人难忘**。
 
 ---
 
