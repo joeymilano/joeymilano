@@ -49,11 +49,23 @@ I’m a product designer and AI builder who takes ideas from **first question to
 
 ### [Crypto Copilot ↗](https://joeyzhao.cc/cryptocopilot) · [live product ↗](https://crpto-copilot.pages.dev/)
 
+<p align="center">
+  <a href="https://joeyzhao.cc/cryptocopilot">
+    <img src="assets/crypto-copilot-hero.jpg" alt="Crypto Copilot live market dashboard, streaming real Kraken and CoinLore data" width="100%" />
+  </a>
+</p>
+
 **A bilingual onchain market-research workspace where the AI only says what the data supports.** Ticker panels stream live from Kraken and CoinLore, Workers AI answers stay grounded in those numbers, and backtests are reproducible, with the losing months kept on the record. Built with React 19, TypeScript, Vite, and Cloudflare Pages Functions. It never connects a wallet and never places an order. The product's job is judgment.
 
 <sub>链上行情研究工作台，中英双语。行情接 Kraken 与 CoinLore 的实时数据，Workers AI 的每句回答都锚定在屏幕上的真实数字里；回测可复现，亏损的月份也留在记录中。不连钱包，不下单，它的工作是帮人把行情看懂。</sub>
 
 ### [ELF × ECHO ↗](https://joeyzhao.cc/elf-echo/)
+
+<p align="center">
+  <a href="https://joeyzhao.cc/elf-echo/">
+    <img src="assets/elf-echo-hero.png" alt="ELF companion robot with the ECHO expression system, a little more human" width="100%" />
+  </a>
+</p>
 
 **A campus companion robot with a face you can read.** ELF rolls on a wheeled base and wears a screen for a face. ECHO, its interactive expression system, gives it a resting face, micro-expressions, and honest reactions when it gets a pat on the head or spends a day ignored. From campus research and early sketches to final product renders, the design holds to one idea. A robot earns companionship the way an old friend does, by being consistently there.
 
