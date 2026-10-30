@@ -71,7 +71,26 @@ I’m a product designer and AI builder who takes ideas from **first question to
 
 <sub>校园陪伴机器人。轮式底盘，一张屏幕当脸，表情系统叫 ECHO。它有安静的默认表情，被摸头会高兴，被晾一天会委屈。快没电的时候，它也会犯困。从校园调研、草图到产品渲染完整走了一遍，核心概念是「老朋友」，陪伴感来自长期一致的回应。</sub>
 
+## Featured product / 主打产品
+
+### [Finfold ↗](https://www.finfold.app) · [public repo ↗](https://github.com/joeymilano/Finfold)
+
+**An AI growth operator that runs the whole loop — not another writing tool.** Finfold watches what happened in your product, surfaces the opportunities worth acting on, turns one update into platform-native drafts for every channel, replies to comments from the browser through its Chrome extension, and records what each action actually brought back — clicks, leads, signups, revenue. Brand Memory and Brand Rules keep every output sounding like the founder, not like a template; a Letta-backed agent turns product notes into creation briefs; and Claude, GPT, or any custom agent can operate Finfold remotely over MCP with a revocable token.
+
+<sub>Finfold 是跑完整闭环的 AI 增长操作员：盯住产品动态，筛出值得动手的增长机会，把一次产品更新生成为各平台原生文案，通过 Chrome 扩展在浏览器里直接回复评论，并把每个动作真实带回的结果（点击、线索、注册、收入）记录回来。品牌记忆与品牌规则让输出始终像创始人自己，而不是模板；Letta 驱动的 Agent 把产品笔记变成创作简报；Claude、GPT 或任意自定义智能体都能通过 MCP 远程操作 Finfold，访问令牌可随时吊销。</sub>
+
+<p>
+  <a href="https://www.finfold.app"><strong>Open the live app ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/joeymilano/finfold-growth-mission-api">Growth Mission API + MCP ↗</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/joeymilano/finfold-growth-agent">NVIDIA Nemotron build ↗</a>
+</p>
+
+<sub>Next.js on Cloudflare Workers · Chrome extension · WeChat mini program · Supabase · Letta · remote MCP server · Apache-2.0</sub>
+
 ---
+
 
 ## Selected work / 代表作品
 
