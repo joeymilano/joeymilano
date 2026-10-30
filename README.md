@@ -75,9 +75,13 @@ I’m a product designer and AI builder who takes ideas from **first question to
 
 ### [Finfold ↗](https://www.finfold.app) · [public repo ↗](https://github.com/joeymilano/Finfold)
 
-**An AI growth operator that runs the whole loop — not another writing tool.** Finfold watches what happened in your product, surfaces the opportunities worth acting on, turns one update into platform-native drafts for every channel, replies to comments from the browser through its Chrome extension, and records what each action actually brought back — clicks, leads, signups, revenue. Brand Memory and Brand Rules keep every output sounding like the founder, not like a template; a Letta-backed agent turns product notes into creation briefs; and Claude, GPT, or any custom agent can operate Finfold remotely over MCP with a revocable token.
+<p align="center">
+  <a href="https://www.finfold.app">
+    <img src="assets/finfold-hero.jpg" alt="Finfold — your first AI marketing employee: it watches your growth, you approve every step" width="100%" />
+  </a>
+</p>
 
-<sub>Finfold 是跑完整闭环的 AI 增长操作员：盯住产品动态，筛出值得动手的增长机会，把一次产品更新生成为各平台原生文案，通过 Chrome 扩展在浏览器里直接回复评论，并把每个动作真实带回的结果（点击、线索、注册、收入）记录回来。品牌记忆与品牌规则让输出始终像创始人自己，而不是模板；Letta 驱动的 Agent 把产品笔记变成创作简报；Claude、GPT 或任意自定义智能体都能通过 MCP 远程操作 Finfold，访问令牌可随时吊销。</sub>
+**An AI growth operator that runs the whole loop — not another writing tool.** Finfold watches what happened in your product, surfaces the opportunities worth acting on, turns one update into platform-native drafts for every channel, replies to comments from the browser through its Chrome extension, and records what each action actually brought back — clicks, leads, signups, revenue. Brand Memory and Brand Rules keep every output sounding like the founder, not like a template; a Letta-backed agent turns product notes into creation briefs; and Claude, GPT, or any custom agent can operate Finfold remotely over MCP with a revocable token.
 
 <p>
   <a href="https://www.finfold.app"><strong>Open the live app ↗</strong></a>
