@@ -9,6 +9,7 @@
 
 <p align="center">
   <a href="https://joeyzhao.cc">Portfolio</a> ·
+  <a href="#joey-design">Joey Design Skill</a> ·
   <a href="https://www.linkedin.com/in/joey-zhao-b8576b91/">LinkedIn</a> ·
   <a href="mailto:super666joey@gmail.com">Email</a> ·
   <a href="https://github.com/joeymilano?tab=followers">Followers</a>
@@ -50,6 +51,16 @@ I’m a product designer and AI builder who takes ideas from **first question to
 ---
 
 ## New from the studio / 最新上线
+
+### Joey Design
+
+[![Joey Design samples: an editable PowerPoint slide, a Xiaohongshu cover and a mobile photography app](https://raw.githubusercontent.com/joeymilano/joey-design/main/docs/studio-hero.jpg)](https://joeymilano.github.io/joey-design/)
+
+An open-source design skill for Codex and Claude Code. In *Light Walk*, the same two architectural photos become a bilingual PowerPoint talk, a five-card Xiaohongshu field guide and a mobile app for saving camera positions.
+
+<sub>我把自己的设计方法整理成了一个开源 Skill。《光隙》用两张建筑照片演示三种做法：在 PPT 里并排讲构图，在小红书里拆成五张拍摄练习，在手机上按光线筛选、收藏机位。</sub>
+
+[Browse the gallery / 看案例 ↗](https://joeymilano.github.io/joey-design/) · [Source & installation / 源码与安装 ↗](https://github.com/joeymilano/joey-design#installation)
 
 ### [Crypto Copilot ↗](https://joeyzhao.cc/cryptocopilot) · [live product ↗](https://crpto-copilot.pages.dev/)
 
