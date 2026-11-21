@@ -56,11 +56,11 @@ I’m a product designer and AI builder who takes ideas from **first question to
 
 [![Fold Frequency: a cobalt sculpture, editable slides, five posters and a playable sound desk](https://raw.githubusercontent.com/joeymilano/joey-design/main/docs/fold-field-wide.jpg)](https://joeymilano.github.io/joey-design/)
 
-An open-source design skill for Codex and Claude Code. *Fold Frequency* is a sound exhibition in three forms: editable slides for the talk, five posters for Xiaohongshu, and a mobile synthesizer that lets visitors save a patch and take home two seconds of sound.
+An open-source design skill for Codex and Claude Code. Play the *Fold Frequency* synth, pick fabric cuts for a buyer, or plan a night at the print studio. Every example comes with an editable brief.
 
-<sub>《折频》从一件钴蓝色雕塑出发。观众在演示里看它的轮廓，在五张图文里读它的折痕，最后打开试听台，调出自己的音色，带走两秒 WAV。</sub>
+<sub>《折频》可以戴上耳机玩，挑一种波形，把喜欢的两秒存成 WAV<br>要做手头的项目，也有海外买手选样、渠道周报和印刷夜校三份简报可以直接改</sub>
 
-[Enter the gallery / 进入展厅 ↗](https://joeymilano.github.io/joey-design/) · [Play the instrument / 演奏试听台 ↗](https://joeymilano.github.io/joey-design/fold-app.html) · [Source & installation / 源码与安装 ↗](https://github.com/joeymilano/joey-design#installation)
+[Enter the gallery / 进入展厅 ↗](https://joeymilano.github.io/joey-design/) · [Work samples / 应用场景 ↗](https://joeymilano.github.io/joey-design/#work) · [Play the instrument / 演奏试听台 ↗](https://joeymilano.github.io/joey-design/fold-app.html) · [Source & installation / 源码与安装 ↗](https://github.com/joeymilano/joey-design#installation)
 
 ### [Crypto Copilot ↗](https://joeyzhao.cc/cryptocopilot) · [live product ↗](https://crpto-copilot.pages.dev/)
 
