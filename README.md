@@ -54,13 +54,13 @@ I’m a product designer and AI builder who takes ideas from **first question to
 
 ### Joey Design
 
-[![Joey Design samples: an editable PowerPoint slide, a Xiaohongshu cover and a mobile photography app](https://raw.githubusercontent.com/joeymilano/joey-design/main/docs/studio-hero.jpg)](https://joeymilano.github.io/joey-design/)
+[![Fold Frequency: a cobalt sculpture, editable slides, five posters and a playable sound desk](https://raw.githubusercontent.com/joeymilano/joey-design/main/docs/fold-field-wide.jpg)](https://joeymilano.github.io/joey-design/)
 
-An open-source design skill for Codex and Claude Code. In *Light Walk*, the same two architectural photos become a bilingual PowerPoint talk, a five-card Xiaohongshu field guide and a mobile app for saving camera positions.
+An open-source design skill for Codex and Claude Code. *Fold Frequency* is a sound exhibition in three forms: editable slides for the talk, five posters for Xiaohongshu, and a mobile synthesizer that lets visitors save a patch and take home two seconds of sound.
 
-<sub>我把自己的设计方法整理成了一个开源 Skill。《光隙》用两张建筑照片演示三种做法：在 PPT 里并排讲构图，在小红书里拆成五张拍摄练习，在手机上按光线筛选、收藏机位。</sub>
+<sub>《折频》从一件钴蓝色雕塑出发。观众在演示里看它的轮廓，在五张图文里读它的折痕，最后打开试听台，调出自己的音色，带走两秒 WAV。</sub>
 
-[Browse the gallery / 看案例 ↗](https://joeymilano.github.io/joey-design/) · [Source & installation / 源码与安装 ↗](https://github.com/joeymilano/joey-design#installation)
+[Enter the gallery / 进入展厅 ↗](https://joeymilano.github.io/joey-design/) · [Play the instrument / 演奏试听台 ↗](https://joeymilano.github.io/joey-design/fold-app.html) · [Source & installation / 源码与安装 ↗](https://github.com/joeymilano/joey-design#installation)
 
 ### [Crypto Copilot ↗](https://joeyzhao.cc/cryptocopilot) · [live product ↗](https://crpto-copilot.pages.dev/)
 
