@@ -54,13 +54,13 @@ I’m a product designer and AI builder who takes ideas from **first question to
 
 ### Joey Design
 
-[![Fold Frequency: a cobalt sculpture, editable slides, five posters and a playable sound desk](https://raw.githubusercontent.com/joeymilano/joey-design/main/docs/fold-field-wide.jpg)](https://joeymilano.github.io/joey-design/)
+[![Joey Design — an editable deck, a photo selection tool, a studio portfolio and a three-level game](https://raw.githubusercontent.com/joeymilano/joey-design/main/docs/four-works.jpg)](https://joeymilano.github.io/joey-design/)
 
-An open-source design skill for Codex and Claude Code. Play the *Fold Frequency* synth, pick fabric cuts for a buyer, or plan a night at the print studio. Every example comes with an editable brief.
+我把做中文 PPT、Web / App 界面、作品集网站和小游戏的设计方法，写进了一个低 AI 味的开源 Skill，可以在 Codex 和 Claude Code 里用
 
-<sub>《折频》可以戴上耳机玩，挑一种波形，把喜欢的两秒存成 WAV<br>要做手头的项目，也有海外买手选样、渠道周报和印刷夜校三份简报可以直接改</sub>
+[下载《折频》PowerPoint](https://joeymilano.github.io/joey-design/fold-deck-zh.pptx) · [用《底片台》选照片](https://joeymilano.github.io/joey-design/contact-sheet.html) · [逛《间室》作品集](https://joeymilano.github.io/joey-design/stillroom.html) · [玩《末班渡轮》](https://joeymilano.github.io/joey-design/last-ferry.html)
 
-[Enter the gallery / 进入展厅 ↗](https://joeymilano.github.io/joey-design/) · [Work samples / 应用场景 ↗](https://joeymilano.github.io/joey-design/#work) · [Play the instrument / 演奏试听台 ↗](https://joeymilano.github.io/joey-design/fold-app.html) · [Source & installation / 源码与安装 ↗](https://github.com/joeymilano/joey-design#installation)
+[Gallery / 在线展厅](https://joeymilano.github.io/joey-design/) · [Source & installation / 源码与安装](https://github.com/joeymilano/joey-design#installation)
 
 ### [Crypto Copilot ↗](https://joeyzhao.cc/cryptocopilot) · [live product ↗](https://crpto-copilot.pages.dev/)
 
