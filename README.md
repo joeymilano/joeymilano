@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Designing the feeling. Shipping the system.</strong><br>
-  <em>把体验做得有感觉，把想法做成真正能用的产品。</em>
+  <em>把感觉做出来，把产品发上线。</em>
 </p>
 
 <p align="center">
@@ -17,12 +17,12 @@
 
 ---
 
-I’m a product designer and AI builder who takes ideas from **first question to real product** — shaping the strategy, interaction, visual language, frontend, and the AI behavior behind it. My work spans [**@joeymilano**](https://github.com/joeymilano) and [**@JoeyZhaoUX**](https://github.com/JoeyZhaoUX): AI-native products, onchain tools, consumer apps, browser extensions, robots with a face, and expressive digital experiences.
+I’m a product designer and AI builder. I like taking an idea from the **first question to a product people actually use** — strategy, interaction, visual language, frontend, AI behavior, with my hands on all of it. My work spans [**@joeymilano**](https://github.com/joeymilano) and [**@JoeyZhaoUX**](https://github.com/JoeyZhaoUX): AI-native products, onchain tools, consumer apps, browser extensions, robots with a face, plus the occasional experiment that fits no category.
 
-我是产品设计师，也是 AI Builder。我把一个模糊但有野心的想法，推进到真实用户愿意使用的产品：从产品判断、交互与视觉，到前端实现和 AI 能力，全部落到同一套高标准里。我的作品横跨 [**@joeymilano**](https://github.com/joeymilano) 与 [**@JoeyZhaoUX**](https://github.com/JoeyZhaoUX)，涵盖 AI 原生产品、链上工具、消费级应用、浏览器扩展、有表情的机器人，与富有表达力的数字体验。
+我是产品设计师，也是 AI Builder。习惯把一个还说不清的想法，一路推到真的有人肯用，产品判断、交互、视觉、前端，还有 AI 的行为方式，都自己上手过一遍。作品放在 [**@joeymilano**](https://github.com/joeymilano) 和 [**@JoeyZhaoUX**](https://github.com/JoeyZhaoUX)，从 AI 原生产品、链上工具、消费级应用、浏览器扩展，到有表情的机器人，偶尔也做点没法归类的实验。
 
-> **No theatre decks. No fake demos. Just products with a point of view — and the craft to make them real.**  
-> **不做只停留在 PPT 里的“概念产品”。我关心的是有立场、有体验、有真实生命力的产品。**
+> **No theatre decks. No fake demos. Products with a point of view, built to be used.**  
+> **不做只停在 PPT 里的“概念产品”。放上来的东西，有立场，也都真的做出来了。**
 
 [3D Studio](#featured-interaction--旗舰体验) · [最新上线](#new-from-the-studio--最新上线) · [Finfold](#featured-product--主打产品) · [代表作品](#selected-work--代表作品) · [Writing / 写作](#writing--写作)
 
@@ -36,9 +36,9 @@ I’m a product designer and AI builder who takes ideas from **first question to
 
 ### [The Interactive Studio — Explore Mode ↗](https://joeyzhao.cc/explore/)
 
-**A portfolio you walk into, not one you scroll.** Explore mode turns joeyzhao.cc into a real-time WebGL studio: look around by drag, scroll, or arrow keys, and click the room's objects — the arcade, the bookshelf, the camera, the notebook — to open the work where it lives. Eight exhibits inside, day/night themes, ambient sound, full EN/中文, and a classic view for readers in a hurry. Scene, interaction, copy, and code — one maker.
+**A portfolio you can walk into.** Explore mode turns joeyzhao.cc into a real-time WebGL studio. Drag, scroll, or use the arrow keys to look around, and click the room's objects — the arcade, the bookshelf, the camera, the notebook — to open the work where it lives. Eight exhibits inside, day/night themes, ambient sound, full EN/中文, and a classic view for readers in a hurry. Scene, interaction, copy, and code — one maker.
 
-<sub>我的网站现在可以“走进去”看：「探索模式」把 joeyzhao.cc 变成一间实时 WebGL 工作室：拖动、滚轮或方向键环视夜景房间，点击屋里的物件——街机、书架、相机、笔记本——作品就在它该在的地方打开。馆内八件展品，支持日/夜主题、环境声与中英双语；赶时间的话还有「经典模式」。从 3D 场景、交互、文案到代码，全部由我一人完成。</sub>
+<sub>我的网站现在可以“走进去”看。「探索模式」把 joeyzhao.cc 变成一间实时 WebGL 工作室，拖动、滚轮或方向键就能环视这间夜景房间，点街机、点书架、点相机、点笔记本，作品就在它该在的地方打开。馆内八件展品，日夜主题、环境声、中英双语都有，赶时间的话还有「经典模式」。3D 场景、交互、文案、代码，都是我一个人做的。</sub>
 
 <p>
   <a href="https://joeyzhao.cc/explore/"><strong>Walk into the studio ↗</strong></a>
@@ -56,7 +56,7 @@ I’m a product designer and AI builder who takes ideas from **first question to
 
 [![Joey Design — an editable deck, a photo selection tool, a studio portfolio and a three-level game](https://raw.githubusercontent.com/joeymilano/joey-design/main/docs/four-works.jpg)](https://joeymilano.github.io/joey-design/)
 
-我把做中文 PPT、Web / App 界面、作品集网站和小游戏的设计方法，写进了一个低 AI 味的开源 Skill，可以在 Codex 和 Claude Code 里用
+我把做中文 PPT、Web / App 界面、作品集网站和小游戏的方法，写成了一个低 AI 味的开源 Skill，Codex 和 Claude Code 里都能用
 
 [下载《折频》PowerPoint](https://joeymilano.github.io/joey-design/fold-deck-zh.pptx) · [用《底片台》选照片](https://joeymilano.github.io/joey-design/contact-sheet.html) · [逛《间室》作品集](https://joeymilano.github.io/joey-design/stillroom.html) · [玩《末班渡轮》](https://joeymilano.github.io/joey-design/last-ferry.html)
 
@@ -70,9 +70,9 @@ I’m a product designer and AI builder who takes ideas from **first question to
   </a>
 </p>
 
-**A bilingual onchain market-research workspace where the AI only says what the data supports.** Ticker panels stream live from Kraken and CoinLore, Workers AI answers stay grounded in those numbers, and backtests are reproducible, with the losing months kept on the record. Built with React 19, TypeScript, Vite, and Cloudflare Pages Functions. It never connects a wallet and never places an order. The product's job is judgment.
+**A bilingual onchain market-research workspace. The AI only says what the data supports.** Ticker panels stream live from Kraken and CoinLore, Workers AI answers stick to the numbers on screen, and backtests are reproducible, with the losing months kept on the record. Built with React 19, TypeScript, Vite, and Cloudflare Pages Functions. It never connects a wallet and never places an order. The product's job is judgment.
 
-<sub>链上行情研究工作台，中英双语。行情接 Kraken 与 CoinLore 的实时数据，Workers AI 的每句回答都锚定在屏幕上的真实数字里；回测可复现，亏损的月份也留在记录中。不连钱包，不下单，它的工作是帮人把行情看懂。</sub>
+<sub>链上行情研究工作台，中英双语。行情接 Kraken 与 CoinLore 的实时数据，Workers AI 的回答只说这些数字撑得住的话；回测可以复现，亏钱的月份也原样留在记录里。不连钱包，不下单，它只负责帮人把行情看懂。</sub>
 
 ### [ELF × ECHO ↗](https://joeyzhao.cc/elf-echo/)
 
@@ -82,9 +82,9 @@ I’m a product designer and AI builder who takes ideas from **first question to
   </a>
 </p>
 
-**A campus companion robot with a face you can read.** ELF rolls on a wheeled base and wears a screen for a face. ECHO, its interactive expression system, gives it a resting face, micro-expressions, and honest reactions when it gets a pat on the head or spends a day ignored. From campus research and early sketches to final product renders, the design holds to one idea. A robot earns companionship the way an old friend does, by being consistently there.
+**A campus companion robot with a face you can read.** ELF rolls on a wheeled base and wears a screen for a face. ECHO, its interactive expression system, gives it a resting face, micro-expressions, and honest reactions when it gets a pat on the head, or a whole day of being ignored. From campus research and early sketches to final product renders, the design keeps to one idea. A robot earns companionship the way an old friend does, just by being there.
 
-<sub>校园陪伴机器人。轮式底盘，一张屏幕当脸，表情系统叫 ECHO。它有安静的默认表情，被摸头会高兴，被晾一天会委屈。快没电的时候，它也会犯困。从校园调研、草图到产品渲染完整走了一遍，核心概念是「老朋友」，陪伴感来自长期一致的回应。</sub>
+<sub>校园陪伴机器人。轮式底盘，一张屏幕当脸，表情系统叫 ECHO。它有安静的默认表情，被摸头会高兴，被晾一天会委屈，快没电的时候还会犯困。从校园调研、草图到产品渲染完整走了一遍。整个设计只讲一个想法，机器人要像老朋友，陪伴靠的是一直都在。</sub>
 
 ## Featured product / 主打产品
 
@@ -96,7 +96,7 @@ I’m a product designer and AI builder who takes ideas from **first question to
   </a>
 </p>
 
-**An AI growth operator that runs the whole loop — not another writing tool.** Finfold watches what happened in your product, surfaces the opportunities worth acting on, turns one update into platform-native drafts for every channel, replies to comments from the browser through its Chrome extension, and records what each action actually brought back — clicks, leads, signups, revenue. Brand Memory and Brand Rules keep every output sounding like the founder, not like a template; a Letta-backed agent turns product notes into creation briefs; and Claude, GPT, or any custom agent can operate Finfold remotely over MCP with a revocable token.
+**An AI growth operator that runs the whole loop.** Finfold watches what happened in your product, picks out the opportunities worth acting on, and turns one update into platform-native drafts for every channel. It replies to comments through its Chrome extension, and keeps score of what each action actually brought back — clicks, leads, signups, revenue. Brand Memory and Brand Rules keep the output sounding like the founder wrote it. A Letta-backed agent turns product notes into creation briefs. And Claude, GPT, or any custom agent can operate Finfold remotely over MCP with a revocable token.
 
 <p>
   <a href="https://www.finfold.app"><strong>Open the live app ↗</strong></a>
@@ -117,15 +117,15 @@ I’m a product designer and AI builder who takes ideas from **first question to
 
 | | Product | Why it matters / 它解决什么 |
 | --- | --- | --- |
-| ✦ | [**Finfold**](https://github.com/joeymilano/Finfold) | An AI content growth OS for solo founders going global — turning one insight into native content for RED, X, LinkedIn, Reddit, and beyond.<br><sub>为出海独立创业者打造的 AI 内容增长系统：一次输入，多平台原生表达。</sub> |
-| ✦ | [**Bill Vampire**](https://github.com/JoeyZhaoUX/Bill-Vampire) + [**Gmail Patrol**](https://github.com/JoeyZhaoUX/bill-vampire-extension) | A privacy-first subscription-defense product and its Gmail companion: identify recurring charges, assess risk, and turn billing evidence into an actionable response.<br><sub>一个隐私优先的订阅防御产品及其 Gmail 扩展：识别续费、判断风险，并将账单证据转化为可执行的应对方案。</sub> |
-| ✦ | [**PORTFOLIO OS**](https://joeymilano.github.io/portfolio-os/) | A design-education AI agent that plans study-abroad portfolios like a strategist — built for the Alipay Agent Award, deployed and live.<br><sub>支付宝智能体涌现奖参赛作：像留学策略师一样帮设计学生规划作品集的 AI 智能体，已部署上线。</sub> |
-| ✦ | [**CALL ME YAO 妖**](https://joeyzhao.cc/yao/) | An AI-native girl group of four Journey to the West demons — one person, 36 scripts, from lyrics to YouTube release.<br><sub>把《西游记》四只妖怪重组成 AI 原生女团：一个人、36 版脚本，从作词到 YouTube 上线的完整影像管线。</sub> |
-| ✦ | [**Finfold Growth Mission**](https://github.com/xagentAI/xagt-plugin/pull/34) | A Finfold-powered growth-mission plugin, merged into xagentAI/xagt-plugin — shipping agent workflows where agents live.<br><sub>基于 Finfold 的增长任务插件，已合并进 xagentAI/xagt-plugin 官方仓库：把增长工作流直接送进智能体平台。</sub> |
-| ✦ | [**MissionGet**](https://joeyzhao.cc/en/missionget-glasses) | A team prototype that takes a spoken request from AI glasses to phone review and a desktop workbench.<br><sub>与 MissionGet 团队一起做的办公原型：用眼镜说出任务，在手机确认，到桌面工作台继续。</sub> |
-| ✦ | [**魔都人生 · Shanghai Stories**](https://modulife.pages.dev/) | A browser life sim about arriving in Shanghai at eighteen with five cards and choices about work, rent, and relationships. [Source](https://github.com/joeymilano/modu-life)<br><sub>十八岁到上海，手里五张牌。找工作、付房租，也会遇见新的人。</sub> |
+| ✦ | [**Finfold**](https://github.com/joeymilano/Finfold) | An AI content growth OS for solo founders going global. One insight in, native content out for RED, X, LinkedIn, Reddit.<br><sub>为出海独立创业者做的 AI 内容增长系统，一次输入，多平台原生表达。</sub> |
+| ✦ | [**Bill Vampire**](https://github.com/JoeyZhaoUX/Bill-Vampire) + [**Gmail Patrol**](https://github.com/JoeyZhaoUX/bill-vampire-extension) | A privacy-first subscription-defense product and its Gmail companion. It identifies recurring charges, weighs the risk, and turns billing evidence into a response you can send.<br><sub>隐私优先的订阅防御产品，附 Gmail 扩展。识别续费、判断风险，把账单证据变成一份能照着做的应对清单。</sub> |
+| ✦ | [**PORTFOLIO OS**](https://joeymilano.github.io/portfolio-os/) | A design-education AI agent that plans study-abroad portfolios like a strategist — built for the Alipay Agent Award, deployed and live.<br><sub>像留学策略师那样帮设计学生规划作品集的 AI 智能体，支付宝智能体涌现奖参赛作品，已部署上线。</sub> |
+| ✦ | [**CALL ME YAO 妖**](https://joeyzhao.cc/yao/) | An AI-native girl group of four Journey to the West demons — one person, 36 scripts, from lyrics to YouTube release.<br><sub>把《西游记》四只妖怪重组成 AI 原生女团。一个人，36 版脚本，从作词一路做到 YouTube 上线。</sub> |
+| ✦ | [**Finfold Growth Mission**](https://github.com/xagentAI/xagt-plugin/pull/34) | A Finfold-powered growth-mission plugin, merged into xagentAI/xagt-plugin — shipping agent workflows where agents live.<br><sub>基于 Finfold 的增长任务插件，已合并进 xagentAI/xagt-plugin 官方仓库，增长工作流直接进了智能体平台。</sub> |
+| ✦ | [**MissionGet**](https://joeyzhao.cc/en/missionget-glasses) | A team prototype that takes a spoken request from AI glasses to phone review and a desktop workbench.<br><sub>和 MissionGet 团队一起做的办公原型，眼镜上说出任务，手机里确认，到桌面工作台接着干。</sub> |
+| ✦ | [**魔都人生 · Shanghai Stories**](https://modulife.pages.dev/) | A browser life sim about arriving in Shanghai at eighteen, five cards in hand, with work, rent, and relationships to figure out. [Source](https://github.com/joeymilano/modu-life)<br><sub>十八岁到上海，手里五张牌。找工作、付房租，也会遇见新的人。</sub> |
 | ✦ | [**Delivery Chaos · 猫手猫脚**](https://github.com/joeymilano/DELIVER-CHAOS) | An Unreal Engine game about a cat causing chain reactions in a Halloween living room. [Mac playtest](https://github.com/joeymilano/DELIVER-CHAOS/releases/tag/v0.1.0-mac-playtest)<br><sub>用 Unreal Engine 做的万圣节拆家游戏，Mac 试玩版已开放。</sub> |
-| ✦ | [**Portfolio & Writing**](https://joeyzhao.cc) | Product thinking, experiments, and the work behind the work.<br><sub>产品思考、实验和那些真正决定作品质量的细节。</sub> |
+| ✦ | [**Portfolio & Writing**](https://joeyzhao.cc) | Product thinking, experiments, and the work behind the work.<br><sub>产品思考、实验，还有决定作品好坏的那些细节。</sub> |
 
 <p align="center">
   <sub>AI-native products · Onchain tools · Robots with a face · Consumer tools · Expressive interaction · WebGL systems</sub>
@@ -139,23 +139,23 @@ I’m a product designer and AI builder who takes ideas from **first question to
 ## My operating system / 我的工作方式
 
 - **Start with behavior, not decoration.** Find the decision, friction, and feeling that actually move a person.  
-  **先理解行为，再谈视觉。** 找到真正影响用户决策、阻力与情绪的地方。
+  **先理解行为，再谈视觉。** 用户在哪儿做决定、在哪儿被卡住，设计就从哪儿下手。
 
-- **Make ambiguity tangible fast.** Prototype early, test the edge cases, and let the product answer the question.  
-  **快速把模糊变成可感知的东西。** 尽早原型化、处理边界情况，让产品自己回答问题。
+- **Make the vague concrete, fast.** Prototype early, test the edge cases, and let the product answer the question.  
+  **尽快把模糊的东西做出来看。** 早点出原型，多试边界情况，让产品自己给答案。
 
 - **Hold the whole experience to one bar.** Product, brand, interface, code, and AI behavior should feel like they came from one mind.  
-  **用同一个标准要求整体体验。** 产品、品牌、界面、代码和 AI 行为，应当像出自同一个大脑。
+  **整个体验用同一把尺子。** 产品、品牌、界面、代码和 AI 行为，要像出自同一个大脑。
 
 ## Currently / 现在
 
-Building an onchain market copilot, teaching a robot to make faces, evolving Finfold, and exploring how software can be both **useful** and **unforgettable**.
+Building an onchain market copilot, teaching a robot to make faces, evolving Finfold, and still chasing software that is both **useful** and **unforgettable**.
 
-正在打磨链上行情 Copilot，教机器人练习表情，持续迭代 Finfold，也在探索软件如何同时做到 **有用** 与 **令人难忘**。
+正在打磨链上行情 Copilot，教机器人练习表情，继续迭代 Finfold，也在琢磨软件怎么做到既**有用**，又**让人记住**。
 
 ---
 
 <p align="center">
-  <strong>If you care about products that earn attention by being genuinely better, let’s talk.</strong><br>
-  <em>如果你也相信，真正更好的产品会自己赢得注意力，欢迎来聊。</em>
+  <strong>If you believe products win attention by being genuinely better, let’s talk.</strong><br>
+  <em>如果你也相信，东西做得足够好，注意力自己会来，欢迎来聊。</em>
 </p>
