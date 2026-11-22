@@ -56,7 +56,9 @@ I’m a product designer and AI builder. I like taking an idea from the **first 
 
 [![Joey Design — an editable deck, a photo selection tool, a studio portfolio and a three-level game](https://raw.githubusercontent.com/joeymilano/joey-design/main/docs/four-works.jpg)](https://joeymilano.github.io/joey-design/)
 
-我把做中文 PPT、Web / App 界面、作品集网站和小游戏的方法，写成了一个低 AI 味的开源 Skill，Codex 和 Claude Code 里都能用
+**I wrote my methods for Chinese decks, Web / App interfaces, portfolio sites, and small games into an open-source Skill.** It runs in both Codex and Claude Code, tuned to keep the AI flavor out. Every link below is live, from an editable PowerPoint to a playable browser game.
+
+<sub>我把做中文 PPT、Web / App 界面、作品集网站和小游戏的方法，写成了一个低 AI 味的开源 Skill，Codex 和 Claude Code 里都能用。</sub>
 
 [下载《折频》PowerPoint](https://joeymilano.github.io/joey-design/fold-deck-zh.pptx) · [用《底片台》选照片](https://joeymilano.github.io/joey-design/contact-sheet.html) · [逛《间室》作品集](https://joeymilano.github.io/joey-design/stillroom.html) · [玩《末班渡轮》](https://joeymilano.github.io/joey-design/last-ferry.html)
 
@@ -118,6 +120,7 @@ I’m a product designer and AI builder. I like taking an idea from the **first 
 | | Product | Why it matters / 它解决什么 |
 | --- | --- | --- |
 | ✦ | [**Finfold**](https://github.com/joeymilano/Finfold) | An AI content growth OS for solo founders going global. One insight in, native content out for RED, X, LinkedIn, Reddit.<br><sub>为出海独立创业者做的 AI 内容增长系统，一次输入，多平台原生表达。</sub> |
+| ✦ | [**Joey Design**](https://joeymilano.github.io/joey-design/) | An open-source design Skill for decks, Web / App interfaces, portfolio sites, and small games, without the usual AI flavor. Works in Codex and Claude Code. [Source](https://github.com/joeymilano/joey-design)<br><sub>低 AI 味的开源设计 Skill，做中文 PPT、Web / App 界面、作品集网站和小游戏，Codex 和 Claude Code 里都能用。</sub> |
 | ✦ | [**Bill Vampire**](https://github.com/JoeyZhaoUX/Bill-Vampire) + [**Gmail Patrol**](https://github.com/JoeyZhaoUX/bill-vampire-extension) | A privacy-first subscription-defense product and its Gmail companion. It identifies recurring charges, weighs the risk, and turns billing evidence into a response you can send.<br><sub>隐私优先的订阅防御产品，附 Gmail 扩展。识别续费、判断风险，把账单证据变成一份能照着做的应对清单。</sub> |
 | ✦ | [**PORTFOLIO OS**](https://joeymilano.github.io/portfolio-os/) | A design-education AI agent that plans study-abroad portfolios like a strategist — built for the Alipay Agent Award, deployed and live.<br><sub>像留学策略师那样帮设计学生规划作品集的 AI 智能体，支付宝智能体涌现奖参赛作品，已部署上线。</sub> |
 | ✦ | [**CALL ME YAO 妖**](https://joeyzhao.cc/yao/) | An AI-native girl group of four Journey to the West demons — one person, 36 scripts, from lyrics to YouTube release.<br><sub>把《西游记》四只妖怪重组成 AI 原生女团。一个人，36 版脚本，从作词一路做到 YouTube 上线。</sub> |
